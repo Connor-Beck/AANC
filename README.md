@@ -1,2 +1,3 @@
 # NCAA
-Neuronal Correlation from Archetypal Analysis
+Archetypal Analysis for Neuronal Correlation
+
